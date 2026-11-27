@@ -1,0 +1,12 @@
+{
+  "name": "pomsimple",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "KEEP YOUR EXISTING VERSION HERE"
+  }
+}
